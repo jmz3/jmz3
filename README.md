@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jiaming "Jeremy Zhang"
+- 👋 Hi, I’m Jiaming "Jeremy" Zhang
 - 👀 I’m interested in Robotics and its applications.
 - 📫 Please send direct email to me if you're interested in my projects.
 
