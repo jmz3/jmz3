@@ -1,4 +1,4 @@
-# <img src="/Docs/profile.gif" data-canonical-src="/Docs/profile.gif" width="150" height="125" /> Hi there 
+# <img src="/Docs/profile.gif" data-canonical-src="/Docs/profile.gif" width="150" height="125" /> Hi there :wave:
 
 I’m Jiaming "Jeremy" Zhang
 - 👀 I’m interested in Robotics and its applications.
