@@ -1,6 +1,5 @@
-![image](https://media4.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+# <img src="/Docs/profile.gif" data-canonical-src="/Docs/profile.gif" width="150" height="125" /> Hi there 
 
-# Hi there
 I’m Jiaming "Jeremy" Zhang
 - 👀 I’m interested in Robotics and its applications.
 - 📫 Please send direct email to me if you're interested in my projects.
