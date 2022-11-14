@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Jiaming "Jeremy" Zhang
+![image](https://media4.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+
+# Hi there
+I’m Jiaming "Jeremy" Zhang
 - 👀 I’m interested in Robotics and its applications.
 - 📫 Please send direct email to me if you're interested in my projects.
 
