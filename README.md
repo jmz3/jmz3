@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremyzz830)](https://github.com/jmz3/github-readme-status)
+[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmz3)](https://github.com/jmz3/github-readme-status)
