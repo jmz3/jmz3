@@ -1,15 +1,16 @@
 # Hi there :wave:
 
-<img src="/Docs/profile.gif" data-canonical-src="/Docs/profile.gif" width="150" height="125" /> 
+<img src="/Docs/profile.gif" data-canonical-src="/Docs/profile.gif" width="300" height="250" align="right"/> 
 
 I’m Jiaming "Jeremy" Zhang, a PhD student in Computer Science
 
-- 👀 I’m interested in Robotics and its applications.
-- 📫 Please send direct email to me if you're interested in my projects.
+- 👀 My research lies in Robotics, Medical Images, 3D Vision, and their applications.
+- 🔭 I'm a robot enthusiast and I'm keen on building AI-powered robots.
+- 📫 Please send direct emails to me if you're interested in my projects.
 - 🤩 Look forward to collaborating on any interesting Robotics/ROS development project.
 
 <!---
-jeremyzz830/jeremyzz830 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jmz3/jmz3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
