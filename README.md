@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmz3&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 --->
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi there 👋!</h2>
 
 ###
 
@@ -28,8 +28,8 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=jmz3&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmz3&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jmz3&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmz3&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
