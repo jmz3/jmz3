@@ -3,16 +3,27 @@
 
 ###
 
-<br clear="both">
+<p align="left">
+  <img
+    align="right"
+    height="150"
+    hspace="12"
+    alt="streak graph"
+    src="https://streak-stats.demolab.com?user=jmz3&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5"
+  />
 
-<p align="left">I’m Jiaming Zhang, a Ph.D. student in Computer Science. You can call me Jeremy as well.<br><br> I simulate and build robots of different types. </p>
+  I’m Jiaming Zhang, a Ph.D. student in Computer Science.<br/>
+  You can call me Jeremy as well.<br/><br/>
+  I simulate and build robots of different types.
+</p>
+
+<br clear="right"/>
+
+
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=jmz3&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmz3&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
