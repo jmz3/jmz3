@@ -33,7 +33,7 @@
 
 ###
 
-[![Jeremy's stats](./profile/stats.svg)
+<img align="left" src="./profile/stats.svg">
 
 ###
 
