@@ -33,7 +33,7 @@
 
 ###
 
-<img align="left" src="https://profile-counter.glitch.me/jmz3/count.svg?"  />
+[![Jeremy's stats](https://github-readme-stats.vercel.app/api?username=jmz3)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
