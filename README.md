@@ -9,14 +9,14 @@
 <p align="left">
   <img
     align="right"
-    height="200"
+    height="150"
     hspace="12"
     alt="streak graph"
     src="https://streak-stats.demolab.com?user=jmz3&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5"
   />
 
   
-<img align="left" height="200" src="./profile/stats.svg">
+<img align="left" height="150" src="./profile/stats.svg">
 
 </p>
 
