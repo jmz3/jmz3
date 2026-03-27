@@ -3,25 +3,26 @@
 
 ###
 
+  I’m Jiaming Zhang, a Ph.D. student in Computer Science. You can call me Jeremy as well.<br/><br/>
+  I simulate and build robots of different types.
+  
 <p align="left">
   <img
     align="right"
-    height="150"
+    height="200"
     hspace="12"
     alt="streak graph"
     src="https://streak-stats.demolab.com?user=jmz3&locale=en&mode=weekly&theme=default&hide_border=false&border_radius=5"
   />
 
-  I’m Jiaming Zhang, a Ph.D. student in Computer Science.<br/>
-  You can call me Jeremy as well.<br/><br/>
-  I simulate and build robots of different types.
+  
+<img align="left" height="200" src="./profile/stats.svg">
+
 </p>
 
 <br clear="right"/>
 
 
-
-###
 
 
 
@@ -33,7 +34,6 @@
 
 ###
 
-<img align="left" src="./profile/stats.svg">
 
 ###
 
